@@ -1,0 +1,59 @@
+.loginPage {
+    background: url('Images/employeems.jpeg');
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("Images/cashewbackground.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 101%;
+}
+
+.loginForm {
+    background-color: rgba(55, 97, 0, 0.6);
+    color: white;
+}
+
+ul li :hover {
+    background-color: gray;
+}
+
+.employee_image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.emp_det_image {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.employee_image{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.custom-go-back-btn {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    color: #ffffff;
+  }
+  
+  .custom-go-back-btn:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+    color: #ffffff;
+  }
+
+  .nav-link {
+    padding: 7px 20px;
+    transition: background-color 0.3s ease, color 0.3s ease, padding 0.3s ease;
+  }
+  
+  .nav-link:hover,
+  .nav-link.active {
+    background-color: white !important;
+    color: black !important;
+    padding: 7px 20px;
+  }
+  
