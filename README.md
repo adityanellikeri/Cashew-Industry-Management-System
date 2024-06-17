@@ -40,10 +40,9 @@ To get started with the project, follow these steps:
 3. Install XAMPP for the backend:
    
    - Download and install XAMPP from the official website.
-   - Replace the `mysql` folder in the XAMPP installation directory with the provided `mysql` folder that contains the 
-   required database with tables.
-   or
-   -Rename your old `mysql` folder and copy the provided `mysql` folder in the XAMPP installation directory
+   - Start Apache and Mysql server and go to "http://localhost/phpmyadmin/".
+   - Create a new database named "employeecasheworg".
+   - Now click on import from topbar and upload the 'employeecasheworg.sql' provided in code section.
    
 ## Project Structure
 
